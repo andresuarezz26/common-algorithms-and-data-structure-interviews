@@ -31,7 +31,7 @@ Given two strings s1 and s2, return true if s2 contains a permutation of s1, or 
 ## Design Data Structures
 
 ## Backtracking
-
+Guide to backtracking: https://leetcode.com/problems/n-queens/solutions/7036086/general-approach-for-all-backtracking-questions/
 ## Tries
 
 ## Graphs
