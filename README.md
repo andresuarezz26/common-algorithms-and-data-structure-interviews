@@ -35,6 +35,7 @@ Guide to backtracking: https://leetcode.com/problems/n-queens/solutions/7036086/
 ## Tries
 
 ## Graphs
+- Topological sort explanaition: https://www.youtube.com/watch?v=EUDwWbvtB_Q
 
 ## Advanced Graphs 
 
