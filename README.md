@@ -36,6 +36,7 @@ Guide to backtracking: https://leetcode.com/problems/n-queens/solutions/7036086/
 
 ## Graphs
 - Topological sort explanaition: https://www.youtube.com/watch?v=EUDwWbvtB_Q
+- Shortest path in a graph must use BFS (Shortest path in a three you can use DFS)
 
 ## Advanced Graphs 
 
