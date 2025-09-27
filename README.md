@@ -1,3 +1,8 @@
+## Resources
+
+Runtime algo sheats: https://algo.monster/problems/runtime_summary
+Flowchart for pattern recognition: https://algo.monster/flowchart
+
 ## Arrays and hashing
 *2sum:* save a hashmap saving the compliments then iterate in the array until you find the compliment. Complexity: O(n) Time: O(n) 
 
