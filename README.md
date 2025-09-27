@@ -1,6 +1,7 @@
 ## Resources
 
 Runtime algo sheats: https://algo.monster/problems/runtime_summary
+
 Flowchart for pattern recognition: https://algo.monster/flowchart
 
 ## Arrays and hashing
