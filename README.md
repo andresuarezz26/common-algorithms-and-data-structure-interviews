@@ -44,6 +44,9 @@ Guide to backtracking: https://leetcode.com/problems/n-queens/solutions/7036086/
 - Topological sort explanaition: https://www.youtube.com/watch?v=EUDwWbvtB_Q
 - Shortest path in a graph must use BFS (Shortest path in a three you can use DFS)
 
+## Dinamic Programming
+https://www.youtube.com/watch?v=oBt53YbR9Kk&t=15110s
+
 ## Advanced Graphs 
 
 ## Greedy
